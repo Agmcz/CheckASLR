@@ -9,7 +9,7 @@ unit uCheckASLR;
 * Inspired by stackoverflow talk                                                             *
 * https://stackoverflow.com/questions/47105480/how-to-check-if-aslr-is-enabled-for-a-process *
 **********************************************************************************************
-* Witten by Agmcz                                                                            *
+* Written by Agmcz                                                                            *
 * Date: 2018-06-10                                                                           *
 *********************************************************************************************}
 
